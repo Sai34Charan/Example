@@ -5,5 +5,5 @@ main()
 {
  printf("JUST NOTHING");
  getch();
- return 0;
+ return 00;
 }
